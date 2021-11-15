@@ -1,0 +1,47 @@
+#baner{
+background-color: gold;
+width: 100%;
+height: 100px;
+border: 0.5px solid black;
+text-align: center;
+}
+#lewy{
+background-color: green;
+float: left;
+width: 79.76%;
+height: 700px;
+text-align: left;
+border: 1px solid black;
+}
+#prawy{
+background-color: yellow;
+float: right;
+width: 20%;
+height: 700px;
+text-align: right;
+border: 1px solid black;
+}
+#stopka1{
+background-color: red;
+float: left;
+width: 33.27%;
+height: 150px;
+text-align: center;
+border: 0.5px solid black;
+}
+#stopka2{
+background-color: purple;
+float: left;
+height: 150px;
+width: 33.2%;
+text-align: center;
+border: 0.5px solid black;
+}
+#stopka3{
+background-color: blue;
+float: right;
+height: 150px;
+width: 33.2%;
+text-align: center;
+border: 0.5px solid black;
+}

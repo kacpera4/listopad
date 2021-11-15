@@ -1,0 +1,104 @@
+body{
+background: lightgreen;
+}
+#tlo{
+    width: 100%;
+    background-color: lightgreen;
+    height: 950px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#topbanera{
+float: left;
+
+}
+#baner{background-color: red;
+    transition: background-color .5s;
+    border: 1px solid black;
+    width: 1200px;
+    float: left;
+  margin-top: 2.5%;
+  margin-bottom: 5%;
+min-height: 150px
+    
+}
+#top{
+    width: 20%;
+
+width: 400px;
+
+}
+#mid{
+
+
+width: 400px;
+
+}
+#bot{
+
+
+width: 400px;
+
+}
+#alll{
+    display: flex;
+align-items: baseline;
+
+}
+#k1,#k2,#k3,#k4,#k5,#k6{
+    min-height: 100px;
+    border: 1px solid black;
+    transition: background-color .5s;
+}
+#lil{
+    vertical-align: text-top;
+   letter-spacing: 19px;
+    text-align: center;
+}
+#k1{
+    background-color: white;
+    
+}
+#k2{
+    background-color: green;
+    
+}
+#k3{
+    background-color: yellow;
+   
+}
+#k4{
+    background-color: purple;
+   
+}
+#k5{
+    background-color: grey;
+    
+}
+#k6{
+    background-color: blue;
+    
+}
+#k1:hover{
+    background-color: gold;
+}
+#k2:hover{
+    background-color: blue;
+}
+#k3:hover{
+    background-color: black;
+}
+#k4:hover{
+    background-color: pink;
+}
+#k5:hover{
+    background-color: orange;
+}
+#k6:hover{
+    background-color: greenyellow;
+}
+#baner:hover{
+    background-color: #fa37b6;
+}
